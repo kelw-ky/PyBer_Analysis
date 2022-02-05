@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview
-Analyzing the total fares for riders anad drivers based on the different types of cities from January to April 2019. 
+Analyzing the total fares for riders and drivers based on the different types of cities from January to April 2019. 
 
 ## Results
 Based on the chart below, Urban has the highest amount of total rides, total drivers and total fares. Suburban and rural were the following types of cities as suggested by the name of the types. When looking at the Average Fare per Ride and Average Fare per driver we could see that Rural, Suburban, and Urban had the highest to lowest amounts respectively. 
